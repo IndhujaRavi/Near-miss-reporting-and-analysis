@@ -1,0 +1,130 @@
+[
+  {
+    "model": "Xenova/whisper-tiny.en",
+    "revision": "79fb389fc764e7c395bd330e9531d9d32ada7049",
+    "path": "config.json",
+    "size": 2202,
+    "hash": "8170b9ae19fe3eec3501b3179afafd2e09ea7731",
+    "algorithm": "git-sha1"
+  },
+  {
+    "model": "Xenova/whisper-tiny.en",
+    "revision": "79fb389fc764e7c395bd330e9531d9d32ada7049",
+    "path": "generation_config.json",
+    "size": 1590,
+    "hash": "d390b4b113dc8cb9018e9f8e7f2616fa6f1f7af1",
+    "algorithm": "git-sha1"
+  },
+  {
+    "model": "Xenova/whisper-tiny.en",
+    "revision": "79fb389fc764e7c395bd330e9531d9d32ada7049",
+    "path": "preprocessor_config.json",
+    "size": 339,
+    "hash": "91876762a536a746d268353c5cba57286e76b058",
+    "algorithm": "git-sha1"
+  },
+  {
+    "model": "Xenova/whisper-tiny.en",
+    "revision": "79fb389fc764e7c395bd330e9531d9d32ada7049",
+    "path": "tokenizer.json",
+    "size": 2128494,
+    "hash": "ba4bb296bdaeeda36b8ce0e6e94c986a156090b2",
+    "algorithm": "git-sha1"
+  },
+  {
+    "model": "Xenova/whisper-tiny.en",
+    "revision": "79fb389fc764e7c395bd330e9531d9d32ada7049",
+    "path": "tokenizer_config.json",
+    "size": 835,
+    "hash": "0009400790fd6ae115b0c4fa1e7bf19140bcc5fc",
+    "algorithm": "git-sha1"
+  },
+  {
+    "model": "Xenova/whisper-tiny.en",
+    "revision": "79fb389fc764e7c395bd330e9531d9d32ada7049",
+    "path": "special_tokens_map.json",
+    "size": 1717,
+    "hash": "82422c54759d0265bf97ba5a92a334d9eb747edf",
+    "algorithm": "git-sha1"
+  },
+  {
+    "model": "Xenova/whisper-tiny.en",
+    "revision": "79fb389fc764e7c395bd330e9531d9d32ada7049",
+    "path": "normalizer.json",
+    "size": 52666,
+    "hash": "dd6ae819ad738ac1a546e9f9282ef325c33b9ea0",
+    "algorithm": "git-sha1"
+  },
+  {
+    "model": "Xenova/whisper-tiny.en",
+    "revision": "79fb389fc764e7c395bd330e9531d9d32ada7049",
+    "path": "added_tokens.json",
+    "size": 2082,
+    "hash": "836c38f2766fb374e4d4b08764885289ffb92a7d",
+    "algorithm": "git-sha1"
+  },
+  {
+    "model": "Xenova/whisper-tiny.en",
+    "revision": "79fb389fc764e7c395bd330e9531d9d32ada7049",
+    "path": "vocab.json",
+    "size": 999186,
+    "hash": "a15dd0028acd1dd2c1c2394c80e1de8f3f12a0e4",
+    "algorithm": "git-sha1"
+  },
+  {
+    "model": "Xenova/whisper-tiny.en",
+    "revision": "79fb389fc764e7c395bd330e9531d9d32ada7049",
+    "path": "onnx/encoder_model_quantized.onnx",
+    "size": 10124913,
+    "hash": "8cc3c6f8563d1b3fbd2c5af9f64c2bed8b020bc593c402d1ef53b9f08fbf1b90",
+    "algorithm": "sha256"
+  },
+  {
+    "model": "Xenova/whisper-tiny.en",
+    "revision": "79fb389fc764e7c395bd330e9531d9d32ada7049",
+    "path": "onnx/decoder_model_merged_quantized.onnx",
+    "size": 30727382,
+    "hash": "dbb2e063b7fbc41d9803b9698f93ecb035c50cbb3fb87b56cb131e4a5eb99059",
+    "algorithm": "sha256"
+  },
+  {
+    "model": "Xenova/all-MiniLM-L6-v2",
+    "revision": "751bff37182d3f1213fa05d7196b954e230abad9",
+    "path": "config.json",
+    "size": 650,
+    "hash": "72147e4ff4426ebedbfa2146c4a0999def51a313",
+    "algorithm": "git-sha1"
+  },
+  {
+    "model": "Xenova/all-MiniLM-L6-v2",
+    "revision": "751bff37182d3f1213fa05d7196b954e230abad9",
+    "path": "tokenizer.json",
+    "size": 711661,
+    "hash": "c17ed520ed8438736732a54957a69306b8822215",
+    "algorithm": "git-sha1"
+  },
+  {
+    "model": "Xenova/all-MiniLM-L6-v2",
+    "revision": "751bff37182d3f1213fa05d7196b954e230abad9",
+    "path": "tokenizer_config.json",
+    "size": 366,
+    "hash": "37fca74771bc76a8e01178ce3a6055a0995f8093",
+    "algorithm": "git-sha1"
+  },
+  {
+    "model": "Xenova/all-MiniLM-L6-v2",
+    "revision": "751bff37182d3f1213fa05d7196b954e230abad9",
+    "path": "special_tokens_map.json",
+    "size": 125,
+    "hash": "a8b3208c2884c4efb86e49300fdd3dc877220cdf",
+    "algorithm": "git-sha1"
+  },
+  {
+    "model": "Xenova/all-MiniLM-L6-v2",
+    "revision": "751bff37182d3f1213fa05d7196b954e230abad9",
+    "path": "onnx/model_quantized.onnx",
+    "size": 22972370,
+    "hash": "afdb6f1a0e45b715d0bb9b11772f032c399babd23bfc31fed1c170afc848bdb1",
+    "algorithm": "sha256"
+  }
+]
